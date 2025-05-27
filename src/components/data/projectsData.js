@@ -2,6 +2,8 @@
 
 import portfolio from "../../../public/portfolio.jpeg";
 import bootcamp from "../../../public/bootcamp.png";
+import nlw from "../../../public/nlw.jpg";
+
 
 export const projectsData = [
   {
@@ -35,8 +37,7 @@ export const projectsData = [
     title: "NLW Spacetime Ignite",
     description:
       "Projeto que consiste em uma cápsula do tempo, no qual é possível guardar memórias em uma timeline.",
-    image:
-      "https://private-user-images.githubusercontent.com/149100621/326114979-e20c574a-0b23-493f-9e67-0f10d68d9d67.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgzNjEyNzMsIm5iZiI6MTc0ODM2MDk3MywicGF0aCI6Ii8xNDkxMDA2MjEvMzI2MTE0OTc5LWUyMGM1NzRhLTBiMjMtNDkzZi05ZTY3LTBmMTBkNjhkOWQ2Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyN1QxNTQ5MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZDI4ZDE0YThmODg4NWM4NjVjYTZiOWI2MTA1NjlhZjQ1NmYxNWY1YzlhZDU5NjI2MjFhYWVkZjM2ZDZmYjE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zFBom8FhMLZHsqTfpoPgrI5UDas5p8jLkNxQWTO8GDM",
+    image: nlw,
     technologies: ["Next", "React Native", "Expo", "Node,Js", "TailwindCSS", "TypeScript", "Prisma", "SQLite"],    
     link: "https://github.com/EduardoTCaetano/NLW-Spacetime-Ignite",
   },
